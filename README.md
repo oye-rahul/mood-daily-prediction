@@ -1,6 +1,6 @@
 # 🎭 AI Mood & Emotion Classifier
 
-[![Streamlit App]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/](https://mood-daily-prediction-ai.streamlit.app/))
+[![Streamlit App]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://mood-daily-prediction-ai.streamlit.app/))
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange.svg)](https://scikit-learn.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
